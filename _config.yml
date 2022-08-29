@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Robby Khoirun
-  image             : https://github.com/xkhoir/xkhoir.github.io/blob/main/images/1.jpg
+  image             : https://raw.githubusercontent.com/xkhoir/xkhoir.github.io/blob/main/images/1.jpg
   # behance           : 
   # dribbble          : 
   email             : robby.khoirun1@gmail.com
