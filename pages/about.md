@@ -7,8 +7,14 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi Saya **{{ site.author.name }}** :wave:,<br>
+Saya merupakan lulusan Sarjana Sistem Informasi dari Institut Teknologi Adhi Tama Surabaya dengan IPK 3.52 dengan predikat memuaskan.
+
+Saya memiliki pengalaman kerja di beberapa perusahaan start up sampai dengan perusahaan besar. Ketertarikan serta minat yang sangat besar saat ini untuk saya dapat bergabung memberikan kinerja terbaik saya di bidang Teknologi Informasi yang sesuai dengan latar belakang pendidikan.
+
+Jika tertarik, silahkan bisa menghubungi saya melalui untuk mendapatkan lampiran CV saya. Terimakasih atas perhatiannya.
+
+
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

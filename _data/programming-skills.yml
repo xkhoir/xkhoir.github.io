@@ -2,22 +2,22 @@
   percentage: 90
   color: danger
 
-- name: HTML5/CSS Framework (Tailwilnd)
-  percentage: 40
-  color: 
-
 - name: Javascript
   percentage: 90
   color: danger
-
-- name: C++
-  percentage: 70
-  color: 
 
 - name: PHP Framework (Laravel/CI)
   percentage: 80
   color:
 
+- name: C++
+  percentage: 70
+  color: 
+
 - name: Python
   percentage: 50
   color: secondary
+
+- name: HTML5/CSS Framework (Tailwilnd)
+  percentage: 40
+  color: 

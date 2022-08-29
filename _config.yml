@@ -25,17 +25,18 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Robby Khoirun
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  # behance           : xkhoir
-  # dribbble          : xkhoir
+  image             : https://github.com/xkhoir/xkhoir.github.io/blob/main/images/59682162.jfif
+  # behance           : 
+  # dribbble          : 
   email             : robby.khoirun1@gmail.com
   facebook          : robbykhooirun
   github            : xkhoir
+  linkedin          : robby-khoirun-2b90a1220
   instagram         : cak.rob
-  # twitter           : xkhoir
+  # twitter           :
   # youtube           : 
   whatsapp          : 6285606500085
-  telegram          : xkhoir
+  # telegram          : xkhoir
 
 
 ### Posts ###
@@ -53,9 +54,9 @@ collections:
 disqus:
   shortname: xkhoir                    # Your website Shortname on disqus
 
-# ### Google Translate ###
-# translate:
-#   enabled: true                                        # Set true to enable google translate
+### Google Translate ###
+translate:
+  enabled: true                                        # Set true to enable google translate
 
 ### AdBlock Detection ###
 adblock_detect:
