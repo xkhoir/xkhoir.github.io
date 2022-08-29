@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Robby Khoirun
+title               : MyPorto
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
@@ -26,15 +26,15 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Robby Khoirun
   image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : xkhoir
-  dribbble          : xkhoir
+  # behance           : xkhoir
+  # dribbble          : xkhoir
   email             : robby.khoirun1@gmail.com
-  facebook          : xkhoir
+  facebook          : robbykhooirun
   github            : xkhoir
-  instagram         : xkhoir
-  twitter           : xkhoir
-  youtube           : 
-  whatsapp          : 
+  instagram         : cak.rob
+  # twitter           : xkhoir
+  # youtube           : 
+  whatsapp          : 6285606500085
   telegram          : xkhoir
 
 
@@ -52,28 +52,6 @@ collections:
 ### Disqus ###
 disqus:
   shortname: xkhoir                    # Your website Shortname on disqus
-
-
-### Google Analytics ###
-analytics:
-  enabled: true                                        # Set true to enable google analytics
-  google:
-    tracking_id: G-7EH55WVF7X
-
-### Google Adsense ###
-### Get your publisher ID with https://www.google.com/adsense/new/u/0/pub-your_publisher_id/settings/account-information
-### Replace "your_publisher_id" from url above, with your publisher id.
-### Download ads.txt from tutorial here https://support.google.com/adsense/answer/7532444?hl=en then place it to same directory with this file.
-# adsense:
-#   enabled: true                                        # Set true to enable google Adsense
-#   google:
-#     publisher_id: 7446272259355358
-
-# ### Google Translate ###
-# tagmanager:
-#   enabled: true                                        # Set true to enable google Adsense
-#   google:
-#     tag_id: GTM-5BQ3JVM
 
 # ### Google Translate ###
 # translate:

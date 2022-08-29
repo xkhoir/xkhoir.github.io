@@ -1,11 +1,23 @@
-- name: HTML5/CSS3
+- name: HTML5/CSS Framework (Bootstrap)
   percentage: 90
   color: danger
 
-- name: Go
+- name: HTML5/CSS Framework (Tailwilnd)
+  percentage: 40
+  color: 
+
+- name: Javascript
+  percentage: 90
+  color: danger
+
+- name: C++
+  percentage: 70
+  color: 
+
+- name: PHP Framework (Laravel/CI)
   percentage: 80
   color:
 
 - name: Python
-  percentage: 70
+  percentage: 50
   color: secondary
