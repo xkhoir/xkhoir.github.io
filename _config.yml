@@ -1,8 +1,9 @@
 ### Site Settings ###
 title               : Robby Khoirun
-description         : |
-                      Mahasiswa Ilmu Hadits, Desainer Grafis, Pengelola Kode C# dan Bash, Webgrammer amatir.
-                      Lihat proyek, portfolio, tulisan dan profilku di menu pojok kanan atas.
+description         : >-
+                      I turn coffee :coffee: into code,
+                      use tabs over spaces
+                      and never broke production.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : xkhoir/xkhoir.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -24,8 +25,8 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Robby Khoirun
-  image             : 
-  behance           : helmiamirudin
+  image             : https://i.imgur.com/uyDNQnn.jpg
+  behance           : xkhoir
   dribbble          : xkhoir
   email             : robby.khoirun1@gmail.com
   facebook          : xkhoir
