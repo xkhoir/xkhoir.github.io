@@ -31,5 +31,9 @@ Jika tertarik, silahkan bisa menghubungi saya melalui untuk mendapatkan lampiran
 </div>
 
 <div class="row">
-{% include about/timeline.html %}
+{% include about/pekerjaan.html %}
+</div>
+
+<div class="row">
+{% include about/pendidikan.html %}
 </div>
