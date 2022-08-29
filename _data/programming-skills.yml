@@ -1,18 +1,18 @@
 - name: HTML5/CSS Framework (Bootstrap)
-  percentage: 90
-  color: danger
-
-- name: Javascript
-  percentage: 90
-  color: danger
+  percentage: 95
+  color: success
 
 - name: PHP Framework (Laravel/CI)
+  percentage: 85
+  color: primary
+
+- name: Javascript
   percentage: 80
-  color:
+  color: primary
 
 - name: C++
   percentage: 70
-  color: 
+  color: info
 
 - name: Python
   percentage: 50
@@ -20,4 +20,4 @@
 
 - name: HTML5/CSS Framework (Tailwilnd)
   percentage: 40
-  color: 
+  color: danger

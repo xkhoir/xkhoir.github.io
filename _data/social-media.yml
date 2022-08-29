@@ -95,3 +95,8 @@ keybase:
   url   : https://www.keybase.io/
   icon  : fab fa-keybase
   color : 66ccff
+
+whatsapp:
+  url   : https://wa.me/
+  icon  : <i class="fa-brands fa-square-whatsapp"></i>
+  color : 333333
