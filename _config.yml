@@ -1,0 +1,103 @@
+### Site Settings ###
+title               : Robby Khoirun
+description         : |
+                      Mahasiswa Ilmu Hadits, Desainer Grafis, Pengelola Kode C# dan Bash, Webgrammer amatir.
+                      Lihat proyek, portfolio, tulisan dan profilku di menu pojok kanan atas.
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : xkhoir/xkhoir.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md**
+
+
+### Author Info ###
+author:
+  name              : Robby Khoirun
+  image             : 
+  behance           : helmiamirudin
+  dribbble          : xkhoir
+  email             : robby.khoirun1@gmail.com
+  facebook          : xkhoir
+  github            : xkhoir
+  instagram         : xkhoir
+  twitter           : xkhoir
+  youtube           : 
+  whatsapp          : 
+  telegram          : xkhoir
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+disqus:
+  shortname: xkhoir                    # Your website Shortname on disqus
+
+
+### Google Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable google analytics
+  google:
+    tracking_id: G-7EH55WVF7X
+
+### Google Adsense ###
+### Get your publisher ID with https://www.google.com/adsense/new/u/0/pub-your_publisher_id/settings/account-information
+### Replace "your_publisher_id" from url above, with your publisher id.
+### Download ads.txt from tutorial here https://support.google.com/adsense/answer/7532444?hl=en then place it to same directory with this file.
+# adsense:
+#   enabled: true                                        # Set true to enable google Adsense
+#   google:
+#     publisher_id: 7446272259355358
+
+# ### Google Translate ###
+# tagmanager:
+#   enabled: true                                        # Set true to enable google Adsense
+#   google:
+#     tag_id: GTM-5BQ3JVM
+
+# ### Google Translate ###
+# translate:
+#   enabled: true                                        # Set true to enable google translate
+
+### AdBlock Detection ###
+adblock_detect:
+  enabled: true                                        # Set true to enable adblock detection
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
